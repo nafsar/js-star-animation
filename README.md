@@ -1,1 +1,2 @@
-# js-star-animation
+# js-animation
+### npm install, npm start
